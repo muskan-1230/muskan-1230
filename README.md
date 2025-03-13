@@ -67,7 +67,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,express,github,html,java,linux,mongodb,mysql,nextjs,nodejs,postman,py,react,tailwind,ts,vscode,arduino,unity,tensorflow,pytorch,javascript,python,&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,express,github,html,java,mongodb,mysql,nodejs,postman,py,react,unity,tensorflow,pytorch,javascript,python,&amp;perline=14">
   </a>
 </p>
 <!-- Connect with me -->
